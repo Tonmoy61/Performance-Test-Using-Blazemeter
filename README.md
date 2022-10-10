@@ -2,4 +2,4 @@
 
 - ### URL: https://blazemeter.com/
 ## How to use Blazemeter Extension:
-- ### Setup 16: Chrome -> Extension ->Install Blazemeter ->Signup ->Open Blazemeter ->Put test name and other ->Click on record icon ->Start browsing ->Blazemeter will record automatically ->Edit or download as JMX file ->Import it in Jmeter
+- ### Setup : Chrome -> Extension ->Install Blazemeter ->Signup ->Open Blazemeter ->Put test name and other ->Click on record icon ->Start browsing ->Blazemeter will record automatically ->Edit or download as JMX file ->Import it in Jmeter
