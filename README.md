@@ -1,4 +1,4 @@
-# Performance-Test-Using-Blazemeter
+<h1 align="center">Performance-Test-Using-Blazemeter</h1>
 
 ### :link: [URL](https://blazemeter.com)
 ## :hash: How to use Blazemeter Extension:
